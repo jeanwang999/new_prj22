@@ -4,6 +4,7 @@
     <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
+  <h2> test at app.vue!!!!</h2>
 </template>
 
 <style lang="scss">
