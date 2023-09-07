@@ -3,13 +3,9 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </nav>
-  <h2> test at app.vue!!!!</h2>
-<<<<<<< HEAD
-<hr>
+  <h2> app.vue </h2>
+  <hr>
   <router-view/>
-=======
-  <p>test for branch</p>
->>>>>>> main
 </template>
 
 <style lang="scss">

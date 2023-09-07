@@ -5,8 +5,7 @@
   </div>
 
   <div>
-    <h2>test for sourcetree !!!</h2>
-    <p>test for merge</p>
+    <h2>here is HOME view</h2>
   </div>
 </template>
 
