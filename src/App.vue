@@ -5,7 +5,6 @@
   </nav>
   <h2> test at app.vue!!!!</h2>
 <hr>
-
   <router-view/>
 </template>
 
