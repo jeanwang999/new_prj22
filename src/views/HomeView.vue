@@ -6,6 +6,7 @@
 
   <div>
     <h2>test for sourcetree !!!</h2>
+    <p>test for merge</p>
   </div>
 </template>
 
