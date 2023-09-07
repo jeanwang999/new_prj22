@@ -4,8 +4,12 @@
     <router-link to="/about">About</router-link>
   </nav>
   <h2> test at app.vue!!!!</h2>
+<<<<<<< HEAD
 <hr>
   <router-view/>
+=======
+  <p>test for branch</p>
+>>>>>>> main
 </template>
 
 <style lang="scss">
