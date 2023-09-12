@@ -27,7 +27,7 @@ setLocale('zh_TW')
 const app = createApp(App).use(router)
 // 註冊 vee-validate 三個全域元件
 
-app.component('VForm', Form)
-app.component('VField', Field)
+app.component('Form', Form)
+app.component('Field', Field)
 app.component('ErrorMessage', ErrorMessage)
 app.mount('#app')
