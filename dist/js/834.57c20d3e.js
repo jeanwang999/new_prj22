@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknew_prj22"]=self["webpackChunknew_prj22"]||[]).push([[834],{9834:function(n,e,r){function u(n,e){return" 我是元件A "}r.r(e),r.d(e,{default:function(){return s}});var t=r(89);const c={},f=(0,t.Z)(c,[["render",u]]);var s=f}}]);
+//# sourceMappingURL=834.57c20d3e.js.map

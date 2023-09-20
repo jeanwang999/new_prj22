@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknew_prj22"]=self["webpackChunknew_prj22"]||[]).push([[446],{446:function(n,e,r){r.r(e),r.d(e,{default:function(){return v}});var c=r(3396);const s=(0,c._)("h2",null,"命名路由",-1),t={class:"row"},u={class:"col-6"},l={class:"col-6"};function a(n,e){const r=(0,c.up)("router-view");return(0,c.wg)(),(0,c.iD)(c.HY,null,[s,(0,c._)("div",t,[(0,c._)("div",u,[(0,c.Wm)(r,{name:"left"})]),(0,c._)("div",l,[(0,c.Wm)(r,{name:"right"})])])],64)}var i=r(89);const o={},f=(0,i.Z)(o,[["render",a]]);var v=f}}]);
+//# sourceMappingURL=446.e8553204.js.map
